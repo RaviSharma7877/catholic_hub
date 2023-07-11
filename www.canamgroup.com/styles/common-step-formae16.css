@@ -1,0 +1,873 @@
+/* 09-12-2022 */
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn {
+float: left;
+width: 100%;
+margin-top:20px;
+margin-bottom: 0;
+height: 85px;
+}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn input {
+	float:left;
+	width:18px;
+	height:18px;
+	
+}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn label {
+	white-space:unset;
+	line-height:normal;
+	font-size:13px;
+	padding-left:10px;
+	}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn label p{color:#ffffff;}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn label p a {
+	color: #df252a;
+}
+			
+.acpetcheck-tremcndtn  input[type="checkbox"], input[type="radio"] {
+box-sizing:border-box;
+padding:0;
+accent-color: #df252a;
+/* width:20px; */
+border:0px;
+outline:none;
+}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn .with-errors {
+	float: left;
+	width: 100%;
+		height: auto;
+}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn .with-errors label{color:#df252a;}	
+
+/* 09-12-2022 */
+
+.leadquery-formsectnall form .dropdown-menu li a {
+	white-space: unset;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--row .form__group label input {
+	color: #909090;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdt label input {
+	text-transform: capitalize;
+}
+.step3-city-loader{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                float: right;
+                width: 30%;
+} 
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 .fsmt-loder {
+                width: 55px;
+                float: left;
+}
+.newphonenumber .form__group.form--md__9 {
+                width: 75%;
+}
+.newphonenumber .form__group.form--md__3 {
+                width: 25%;
+}
+.enqOtpmsg .text--dark.text--medium {
+                color: #fff;
+                display: inline;
+}
+.enqOtpmsg span{
+                display:block;
+}
+.cstotpsection{
+                margin-left: 20px;
+                margin-right: 20px;
+}
+.form--row.newphonenumber {
+                display: none;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .cstotpsection .otp-wrapper input {
+                border: 1px solid rgba(255,255,255,.1);
+                background: rgba(255,255,255,.1) !important;color: #fff !important;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .form--header h1 {
+                font-size:15px;
+                font-weight:normal;
+                float:left;
+                width:100%;
+                padding-bottom:10px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .already.resend p {
+                font-size: 12px;
+                line-height: normal;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdt {
+                float: left;
+                /* padding-right: 0; */
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn {
+                float: left;
+                padding-left:0px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button span {
+                font-size: 15px;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button {
+                width:100%;
+                text-align:center;
+                border:1px solid #df252a !important;
+                text-align:center;
+                background:#df252a;
+                color:#fff !important;
+                border-radius: 50px;
+                padding:12px 0;
+                text-align:center !important;
+                display:flow-root;
+                
+}
+/*
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button:hover {
+                background: #fff;
+                color: #000 !important;
+                border: 1px solid #fff !important;
+}
+*/
+/*
+.leadquery-formsectnall #enquiryForm_otp #step2 .form--row {
+                float: left;
+                width: 100%;
+                
+}*/
+.leadquery-formsectnall .talk--mobile {
+                float: left;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group {
+                padding: 0 20px;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step3 {
+                position: relative;
+                width: 100%;
+                float: left;
+}
+.leadquery-formsectnall #enquiryForm_otp #step3 .formsubmit-actnbtn .form--group {
+                padding: 0 20px;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn {
+                float: right !important;
+                display: block;width: 100%;
+}
+
+
+.leadquery-formsectnall #enquiryForm_otp #step3 .formsubmit-actnbtn .form--group .fsabtn {
+                float: right !important;
+                display: block;width: 100%;
+}
+
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .backbtnred {
+                background: #df252a;
+                color: #fff;
+                font-size: 15px;
+}
+/*
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .backbtnred:hover{color:#000; background:#fff;}
+*/
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .submtbtnwt {
+                font-size: 15px;
+                color: #505050;
+                float: right;
+}
+/*
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .submtbtnwt:hover{
+background: #df252a;
+                color: #fff;
+                font-size: 15px;
+}*/
+.leadquery-formsectnall #enquiryForm_otp #step2 #phone_numberupdtscs {
+                float: left !important;
+                width: 100%;
+                float: left;
+                color: #07c107;
+                display: none;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 #phone_updterror{display: none;}
+#newenquiryForm .hidden{
+                display:none;
+}
+
+/*01-12-2022*/
+.leadquery-formsectnall #enquiryForm_otp #step2 .already.resend a{cursor:pointer;text-decoration:underline;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .already.resend a:hover{text-decoration:none;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .enqOtpmsg {
+                font-size:14px;
+                float: left;
+                width: 100%;
+                padding-bottom: 5px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn .arrow--button__nextBtn span{display:unset;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn .arrow--button__nextBtn span::before {
+                background-image: url('data:image/svg+xml;utf-8,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 12L17 12" stroke="%23ffffff" stroke-width="1.5" stroke-linecap="square"/><path d="M12 6L18 12L12 18" stroke="%23ffffff" stroke-width="1.5" stroke-linecap="square"/></svg>');
+}
+/* .leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdt label.custom--input.custom__city {
+                border-top-right-radius: 0px;
+                border-bottom-right-radius: 0px;
+} */
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .backbtnred span::before {
+transform: rotate(-180deg);        left: 0;}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .backbtnred span {
+                padding-left: 26px !important;
+                padding-right: 0px !important;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formactnmsg {
+                float: left;
+                
+}
+
+/*01-12-2022*/
+/* .formbtnSec1{
+                float: left;width: ;width: 43%;
+}
+.formbtnSec2{
+                float: left;width: ;width: 57%;
+}
+.formbtnSec2{
+                
+} */
+
+.leadquery-formsectnall #enquiryForm_otp #step3 .form--row {
+                float: left;
+                width: 100%;
+}
+
+/*step1*/
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 43%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                float: right;
+                width: 57%;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .enqGensucess {
+                float: left;
+                height: auto;
+                line-height: 50px;
+                float: left;
+                width: 100%;
+                color: #04cc04;
+                letter-spacing: normal;
+                border: 1px solid #04cc04;
+                text-align: center;
+                border-radius: 50px;
+                margin-top: 3px; display:none;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 .fsmt-loder {
+                float: left;
+                width: 60px;
+                height: 50px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .errorndsucessmsg {
+                float: left;
+                height: auto;
+                line-height: 50px;
+                float: left;
+                width: 100%;
+                color: #df252a;
+                letter-spacing: normal;
+                /* border: 1px solid #df252a; */
+                text-align: left
+                /* border-radius: 50px; */
+                /* margin-top: 3px; */
+                display: block;
+                font-size: 13px;
+                font-weight: bold;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .otpphonf-topspace {
+                margin-top: 10px;
+                margin-bottom: 5px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .newphonenumber {
+                margin-bottom: 10px;
+}
+
+/*step3*/
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 .fsmt-loder {
+                float: left;
+                width: 60px;
+                height: 50px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .errorndsucessmsg {
+                float: left;
+                height: auto;
+                line-height: 50px;
+                /* float: left; */
+                width: 100%;
+                color: #df252a;
+                letter-spacing: normal;
+                /* border: 1px solid #df252a; */
+                text-align: left;
+                border-radius: 50px;
+                margin-top: 3px;
+                display: block;
+                font-weight: bold;
+                font-size: 13px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .otpphonf-topspace {
+                margin-top: 10px;
+                margin-bottom: 5px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .newphonenumber {
+                margin-bottom: 10px;
+}
+
+
+.leadquery-formsectnall .loaderon-loagingcity {
+                width: 100%;
+                height: 100%;
+                text-align: center;
+                background: #1a1a19ba;
+                /* min-height: 405px; */
+                position: absolute;
+                z-index: 123;
+                display: block;
+                left: 0;
+                top: 0;
+                /* height: 100vh; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+}
+.leadquery-formsectnall #enquiryForm_final_submit {
+                float: left;
+                width: 100%;
+                position: relative;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .fsabtn {
+                float: left;
+                width: 100%;
+}
+
+.leadquery-formsectnall #enquiryForm_otp {
+                float: left;
+                width: 100%;
+}
+.leadquery-formsectnall #newenquiryForm {
+                float: left;
+                width: 100%;
+}
+
+
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group {
+                width: 100% !important;
+                float: left;
+                padding: 0 20px;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn {
+                float: left;
+                width: 100%;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 70%;
+}
+
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .errorndsucess{
+height: auto;
+line-height: 50px;
+float: left;
+width: 100%;
+color: #04cc04;
+letter-spacing: normal;
+border: 1px solid #04cc04;
+text-align: center;
+border-radius: 50px;
+margin-top: 3px;
+display:block;
+}
+
+
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .errorndsucessmsg {
+                float: left;
+                height: auto;
+                /* line-height: 50px; */
+                width: 100%;
+                color: #df252a;
+                letter-spacing: normal;
+                /* border: 1px solid #df252a; */
+                text-align: left;
+                border-radius: 50px;
+                margin-top: 3px;
+                display: block;
+                font-size: 13px;
+                font-weight: bold;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 .fsmt-loder svg {
+                float: left;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 .step3finalstepactn {
+                float: right;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 .step3finalstepactn .btn-prev {
+                margin-right: 10px;
+}
+
+.leadquery-formsectnall #newenquiryForm {
+                float: left;
+                width: 100%;
+}
+
+
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group {
+                width: 100% !important;
+                float: left;
+                padding: 0px;
+}
+
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn {
+                float: left;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                float: right;
+                width: 35%;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width:65%;
+}
+
+
+
+
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .enqGensucess{
+height: auto;
+line-height: 50px;
+float: left;
+width: 100%;
+color: #04cc04;
+letter-spacing: normal;
+border: 1px solid #04cc04;
+text-align: center;
+border-radius: 50px;
+margin-top: 3px;
+display:none;
+}
+
+
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .enqGenError{
+float: left;
+height: auto;
+line-height: 50px;
+width: 100%;
+color: #df252a;
+letter-spacing: normal;
+border: 1px solid #df252a;
+text-align: center;
+border-radius: 50px;
+margin-top: 3px;
+display:none;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .fsabtn .formbtnSec2 .submtbtnwt {
+                float: right;
+                color: #2b2a29;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 70%;
+                height: 55px;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .cstbordernone {
+                float: right;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .rowreducetopspace {
+                margin-top: 7px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 {
+                padding-bottom: 15px;
+                float: left;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .backbtnred:hover span::before {
+                left: -10px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .already.resend p:first-child {
+                padding-bottom: 5px;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .cstotpsection #otpsenderro {
+                float: left;
+                width: 100%;
+                height: auto;
+                color: #01ce01;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn {
+                margin-top: 24px;
+}
+/*06-12-2022*/
+
+.arrow.arrow--button.arrow--button__whiteBg.arrow--button__endBtn.submtbtnwt span::before {
+                background-image: url('data:image/svg+xml;utf-8,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 12L17 12" stroke="%232B2A29" stroke-width="1.5" stroke-linecap="square"/><path d="M12 6L18 12L12 18" stroke="%232B2A29" stroke-width="1.5" stroke-linecap="square"/></svg>');
+}
+.leadquery-formsectnall #newenquiryForm #step1 .form--row .form__group label ::placeholder {
+                color: #909090;
+                opacity: unset;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .form--row .form__group .dropdown-toggle {
+                color: #909090;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--row .form__group .dropdown-toggle {
+                color: #909090;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--row .form__group label ::placeholder{
+color: #909090;  opacity: unset;}
+.leadquery-formsectnall #newenquiryForm #step1 .form--row .form__group .dropdown-toggle{color:#909090;}
+.leadquery-formsectnall #newenquiryForm #step1 .form--row .form__group .dropdown-toggle:hover {
+                border: 1px solid #fff;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .cstotpsection .otp-wrapper input:hover {
+                border: 1px solid #fff;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .cstotpsection .otp-wrapper input:focus-visible {
+                outline-color: 1px solid rgba(43,42,41,.05);
+                outline: 1px solid rgba(43,42,41,.05);
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--row .form__group .dropdown .dropdown .dropdown-toggle:hover {
+                border: 1px solid #fff !important;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn {
+                float: left;
+                width: 100%;
+                margin: unset;
+                margin-top: 14px;
+}
+
+/* Modal css 07122022 */
+
+.queryform-requestSendModal {
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.queryform-requestSendModal p {
+	max-width: 100%;
+	margin: 0;
+	line-height: auto;
+}
+.queryform-requestSendModal .mescucf {
+	width: 100%;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.queryform-requestSendModal .mescucf img {
+	margin-bottom: 0;
+}
+.queryform-requestSendModal .contactinfrm {
+	width: 100%;
+	text-align: center;
+	padding-bottom: 15px;
+	float: left;
+	margin-top: 5px;
+}
+.queryform-requestSendModal .contactinfrm p a {
+	color:#df252a;
+}
+.queryform-requestSendModal .contactinfrm p a img {
+	width:16px;
+	height:16px;
+	margin:0;
+	margin:0px 5px;
+}
+
+.queryform-requestSendModal .contactinfrm p {
+	float: left;
+	width: 50%;
+	text-align: left;
+	margin-bottom: 0;
+}
+.queryform-requestSendModal .contactinfrm p a svg {
+	margin:0 5px;
+}
+.queryform-requestSendModal .contactinfrm p img {
+	width: 18px;
+	margin: 0;
+	line-height: normal;
+	height: auto;
+	float: left;
+	margin-right: 5px;
+	margin-top: 3px;
+}
+.queryform-requestSendModal .faiumcutext{
+	width: 100%;
+	float: left;
+}
+.text--light.text--regular.delete--modal--desc.mb5 {
+	margin-bottom: 5px;
+}
+.leadquery-formsectnall form .stepper--content .form--row .form__group .dropdown .dropdown-menu .inner .dropdown-menu li a:focus {
+	background: #df252a;
+	border: 0px !important;
+	outline: none !important;
+}
+/* Modal css 07122022 */
+
+
+
+@media    only screen and (min-width:100px) and (max-width:767px){
+	
+/* 09122022 */
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn label p {
+font-size: 12px;
+}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn{height:115px;}
+/* 09122022 */	
+.queryform-requestSendModal p {
+	font-size: 12px;
+	line-height: 15px;
+}
+.queryform-requestSendModal .mescucf p {
+	font-size: 12px;
+}
+.queryform-requestSendModal .faiumcutext p {
+	font-size: 12px;
+}
+.queryform-requestSendModal .contactinfrm p {
+	font-size: 12px;
+	text-align: left;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 5px;
+}
+.queryform-requestSendModal .contactinfrm p img {
+	float: none;
+	margin: 0;
+	width: 15px;
+	height: 15px;
+	margin-bottom: -4px;
+}
+#requestSendModal {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .form--row .form__group .dropdown-toggle{font-size:12px;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .rowreducetopspace .cstotpsection .already.resend{	margin-bottom:15px;	float:left;	width:100%;}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--row .form__group .dropdown-toggle{font-size:12px;}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .form--row {
+                float: left;
+                width: 100%;
+}
+
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                width: 100%;
+                float: left;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--group {
+                padding: 0 !important;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 span {
+                margin-bottom: 15px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn .arrow.arrow--button.arrow--button__redBg.arrow--button__nextBtn {
+                width: 100% !important;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn {
+                display: block;
+                float: left;
+                width: 100%;
+                margin: 0;
+}
+
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                float: right;
+                width: 272px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                width: 175px;
+}
+
+.talk--footer.talk--mobile {
+                float: left;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .backbtnred {
+                font-size:12px;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .submtbtnwt {
+                font-size: 12px;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button {
+
+                border-radius: 50px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group{padding:0px;}
+.leadquery-formsectnall #enquiryForm_otp #step2 .cstotpsection {
+                margin: 0px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .form--row .form__group button {
+                font-size: 12px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .form--row .phonenoupdt {
+                float:left;
+                width:65%;
+                }
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn {
+                float:left;
+                width:35%;margin-top: 0;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button {
+                width: 100% !important;
+                float: right !important;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button {
+                width: auto !important;
+                
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                width: 100%;
+}
+
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 100% !important;
+                height: auto;
+                }
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 span{margin-bottom:15px;}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group {
+                padding: 0;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                width: 155px;
+                float: right;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 100%;
+                text-align: right;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .rowreducetopspace .cstotpsection {
+                float: left;
+                width: 100%;
+                text-align: right;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn {
+                margin-top: 0px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .errorndsucessmsg {
+                margin: 0;
+                text-align: right;
+}
+
+}
+
+@media    only screen and (min-width:768px) and (max-width:991px){
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn label p{font-size:12px;}
+.leadquery-formsectnall form .form-row .form-group .acpetcheck-tremcndtn{min-height:100px;}	
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn {
+                display: block;
+                float: right;
+                width: 100%;
+                margin-top: 24px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 span{margin-bottom: 15px;}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                width: 205px;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                width: 100%;
+                float: left;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn button {
+                width: auto;
+                padding: 7px 15px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn {
+                padding-left: 20px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                width: 100%;
+                float: left;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 span {
+                margin-bottom: 15px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec2 {
+                width: 330px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdt {
+                width: 100% !important;
+                padding-right: 20px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn {
+                float: left;
+                margin-top: 25px;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .phonenoupdtbtn .arrow--button__endBtn {
+                width: auto;
+                border-radius: 50px;
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:1199px){
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn {
+                display: block;
+                float: right;
+                width: 100%;
+                margin-top: 24px;
+}
+
+
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--md__6 {
+                width: 100%;
+                max-width: 100%;
+                flex: unset;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .form--md__6 + .form--md__6 {
+                margin-top: 24px;
+}
+
+
+.leadquery-formsectnall #newenquiryForm #step1 .form--md__6 {
+                max-width: 100%;
+                width: 100%;
+                flex: unset;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .form--md__6 + .form--md__6{margin-top:24px;}
+
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 100%;
+                height: auto;
+                padding-bottom: 15px;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                width: 100%;
+                text-align: right;
+                height: auto;
+}
+.leadquery-formsectnall #enquiryForm_otp #step2 .rowreducetopspace .cstotpsection {
+                text-align: right;
+                width: 100%;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 {
+                float: left;
+                width: 100%;
+                margin: 0 !important;
+                padding: 0;
+                text-align: ;
+}
+.leadquery-formsectnall #enquiryForm_final_submit #step3 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 #step3commonerror {
+                float: left;
+                width: 100%;
+                text-align: right;
+}
+.leadquery-formsectnall #newenquiryForm #step1 .formsubmit-actnbtn .form--group .fsabtn .formbtnSec1 .errorndsucessmsg {
+                text-align: right;
+                margin-top: 0;
+}
+
+}

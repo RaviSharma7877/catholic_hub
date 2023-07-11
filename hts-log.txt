@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Jul 2023 12:23:31 at https://www.canamgroup.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%xs2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.canamgroup.com/ -O1 "C:\CATHOLIC--hub\catholic hub" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:20:50	Error: 	Exit requested by shell or user
+13:20:51	Warning: 	File not added due to mirror cancel: https://www.canamgroup.com/assets/universitybanner/1032-9625saibt.jpg?v=1689058507
+13:23:23	Warning: 	File not parsed, looks like binary: https://www.canamgroup.com/assets/images/program-pop.avif
+13:23:26	Warning: 	File not parsed, looks like binary: https://www.canamgroup.com/assets/images/student-stories.avif
+13:23:26	Error: 	"Not Found" (404) at link https://www.canamgroup.com/c (from https://connect.facebook.net/en_US/fbevents.js)
+13:23:26	Error: 	"Not Found" (404) at link https://www.canamgroup.com/b (from https://connect.facebook.net/en_US/fbevents.js)
+13:23:26	Error: 	"Not Found" (404) at link https://www.canamgroup.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+13:23:26	Warning: 	Moved Permanently for https://www.canamgroup.com/schema.org/
+13:23:26	Warning: 	File has moved from https://www.canamgroup.com/schema.org/ to https://www.canamgroup.com/schema.org
+13:23:26	Warning: 	Link https://www.canamgroup.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+13:26:15	Error: 	"Unknown error" (524) at link https://www.canamgroup.com/universities/usa/into-group-illinois-state-university (from https://www.canamgroup.com/study-in-usa)
+13:27:23	Error: 	"Not Found" (404) at link https://www.canamgroup.com/contact.html (from https://www.canamgroup.com/testprep)
+13:28:33	Warning: 	Moved Permanently for https://www.canamgroup.com/blog/
+13:28:33	Warning: 	File has moved from https://www.canamgroup.com/blog/ to https://www.canamgroup.com/blog
+13:29:09	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.canamgroup.com/universities/usa/educo-florida-agricultural-and-mechanical-university (from https://www.canamgroup.com/blog/10-reasons-to-study-in-uk)
+13:29:10	Warning: 	File not added due to mirror cancel: https://www.canamgroup.com/universities/usa/educo-florida-agricultural-and-mechanical-university
+13:29:10	Error: 	"mirror stopped by user" (-1) at link https://www.canamgroup.com/universities/usa/educo-florida-agricultural-and-mechanical-university (from https://www.canamgroup.com/blog/10-reasons-to-study-in-uk)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 5 minutes 39 seconds : 1292 links scanned, 1282 files written (285115413 bytes overall) [99165171 bytes received at 25175 bytes/sec], 250456324 bytes transferred using HTTP compression in 802 files, ratio 24%, 9.2 requests per connection
+(7 errors, 10 warnings, 0 messages)
